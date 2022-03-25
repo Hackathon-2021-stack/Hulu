@@ -19,7 +19,7 @@ const Header = () => {
                 <HeaderItem title='ACCOUNT' Icon={UserIcon}/>
             </div>
             
-            <Image src="https://i.ibb.co/jwpkRXv/hulu-white.png" width={200} height={100} alt="HuLu" className="object-contain" />
+            <Image src="../hulu-white.png" width={200} height={100} alt="HuLu" className="object-contain" />
             
         </header>
         </>
