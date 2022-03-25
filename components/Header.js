@@ -19,7 +19,7 @@ const Header = () => {
                 <HeaderItem title='ACCOUNT' Icon={UserIcon}/>
             </div>
             
-            <Image src="https://pngset.com/images/hulu-white-logo-alphabet-text-word-symbol-transparent-png-1493374.png" width={200} height={100} alt="HuLu" className="object-contain" />
+            <Image src="https://raw.githubusercontent.com/Hackathon-2021-stack/Hulu/main/hulu-white.png" width={200} height={100} alt="HuLu" className="object-contain" />
             
         </header>
         </>
